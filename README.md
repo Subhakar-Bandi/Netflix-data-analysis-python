@@ -1,5 +1,3 @@
-# Netflix-data-analysis-python
-Exploratory Data Analysis on Netflix dataset using Python
 # Netflix Data Analysis Project
 
 ## Project Overview
